@@ -3,4 +3,4 @@ I am a self-driven and passionate Software Developer. I am excited for the futur
 
 I am currently working on:
 - Clickinn: A smart accommdation-rentals platform (Java Springboot, Angular and Ionic). I'm also looking into creating an AI model to assist with agent productivity on the platform.
-- Geeks4Learning Geek Management System: A digital solution to automate tasks and processes involved in training software professionals.
+- Geeks4Learning Geek Management System: A digital solution to automate tasks and processes involved in training software professionals (C# .NET5).
